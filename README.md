@@ -1,6 +1,6 @@
 # Test-repo-zit
 
-# Vezvanje za github
+## Vezbanje za github
 
 1. Sta
 2. Je ovo
